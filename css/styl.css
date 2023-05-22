@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    border: 1px solid black;
+}
+p{
+    color: rebeccapurple;
+}
+.zeeshan{
+    color: brown;
+}
+#sentance{
+    /* background-color: chartreuse; */
+    color: black;
+}
+#Munafsir{
+    color: goldenrod;
+}
+#sentance1{
+    color: crimson;
+    /* background-color: black; */
+}
