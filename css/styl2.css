@@ -5,23 +5,55 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-.main {
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    background-color: rgb(237, 75, 75);
     color: white;
-    margin-top: 230px;
+    height: 60px;
+   
+    
+}
+.heading{
+    display: inline-block;
+    vertical-align: middle;
+   
+
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    
+    display: inline-block;
+    padding: 20px;
+}
+.navigation{
+    float: right;
+    vertical-align: middle;
+}
+
+
+.main {
+
+    height: 1000px;
+    color: white;
+    margin-top: 170px;
+    line-height: 50px;
+
+}
+
+.container1 {
     padding: 0 8rem;
 }
 
-/* .container {
-    padding: 0 8rem;
-} */
 
-h1 {
-    font-size: 40px;
-}
-
-h3 {
-    font-size: 30px;
-}
 
 .para {
     font-weight: bold;
